@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Github_Wallpaper.Properties
+namespace GIthubWallpaper.Properties
 {
 
 

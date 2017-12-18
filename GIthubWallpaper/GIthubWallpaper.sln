@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Github Wallpaper", "Github Wallpaper\Github Wallpaper.csproj", "{59ADCA65-65F5-4ACC-BFAE-9991C6096F98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubWallpaper", "GIthubWallpaper\GithubWallpaper.csproj", "{3E8F522A-112B-4B2E-9ACE-35752114C42C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59ADCA65-65F5-4ACC-BFAE-9991C6096F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59ADCA65-65F5-4ACC-BFAE-9991C6096F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59ADCA65-65F5-4ACC-BFAE-9991C6096F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59ADCA65-65F5-4ACC-BFAE-9991C6096F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8F522A-112B-4B2E-9ACE-35752114C42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8F522A-112B-4B2E-9ACE-35752114C42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8F522A-112B-4B2E-9ACE-35752114C42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8F522A-112B-4B2E-9ACE-35752114C42C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5AFF6B7D-179D-4008-9EB1-CC7204FEF106}
+		SolutionGuid = {E08B2E3E-BEA8-42AA-9911-155BC1996749}
 	EndGlobalSection
 EndGlobal
