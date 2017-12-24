@@ -5,7 +5,6 @@ import ast
 
 
 def get_grass_field(username):
-    # magnify = 2
 
     req = requests.get('https://github.com/' + username)
 
@@ -22,6 +21,7 @@ def get_grass_field(username):
 
     return field
 
+#     magnify = 2
 #    im = Image.new('RGB', (634 * magnify, 82 * magnify), (255, 255, 255))
 #
 #    for i in range(len(b)):
